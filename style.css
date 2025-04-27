@@ -23,18 +23,32 @@ body{
     
 }
 
+.justify{
+    text-align: justify;
+}
+.cim{
+
+  text-align: center;
+  color: orange;
+
+}
+.cim{
+
+  text-align: center;
+  color: orange;
+
+}
+
 .center{
-    text-align: center;
+  display: block;
+  margin: auto;
 }
-.cim{
 
-  text-align: center;
-  color: orange;
-
+.carousel{
+  border-radius: 55px 55px 55px 55px;
+  overflow: hidden;
 }
-.cim{
 
-  text-align: center;
-  color: orange;
-
+.kerekitett{
+  border-radius: 55px 55px 55px 55px;
 }
