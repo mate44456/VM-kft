@@ -17,7 +17,20 @@ body{
           hsl(147deg 88% 27%) 100%
         );
         background-repeat: no-repeat;
+        background-attachment: fixed;
+        color: rgb(200, 200, 200);
+        font-family: Sansation;
     
+}
+
+.center{
+    text-align: center;
+}
+.cim{
+
+  text-align: center;
+  color: orange;
+
 }
 .cim{
 
