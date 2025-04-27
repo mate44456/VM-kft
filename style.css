@@ -1,3 +1,20 @@
 body{
-    background-color: black;
+    
+        background-image: linear-gradient(
+          45deg,
+          hsl(210deg 5% 8%) 0%,
+          hsl(204deg 25% 10%) 5%,
+          hsl(198deg 47% 12%) 14%,
+          hsl(192deg 84% 12%) 26%,
+          hsl(190deg 100% 13%) 41%,
+          hsl(187deg 100% 14%) 57%,
+          hsl(184deg 100% 15%) 69%,
+          hsl(179deg 100% 16%) 79%,
+          hsl(173deg 100% 18%) 87%,
+          hsl(168deg 100% 20%) 92%,
+          hsl(162deg 100% 22%) 96%,
+          hsl(155deg 100% 24%) 99%,
+          hsl(147deg 88% 27%) 100%
+        );
+    
 }
