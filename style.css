@@ -16,5 +16,6 @@ body{
           hsl(155deg 100% 24%) 99%,
           hsl(147deg 88% 27%) 100%
         );
+        background-repeat: no-repeat;
     
 }
